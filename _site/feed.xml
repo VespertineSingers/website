@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vespertine Singers</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://vespertinesingers.co.uk//</link>
+    <atom:link href="http://vespertinesingers.co.uk//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 03 May 2015 18:23:21 +0100</pubDate>
+    <lastBuildDate>Sun, 03 May 2015 18:23:21 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>New Year New Markdown!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 31 Dec 2015 19:00:00 +0000</pubDate>
+        <link>http://vespertinesingers.co.uk//performances/2015/12/31/new-year.html</link>
+        <guid isPermaLink="true">http://vespertinesingers.co.uk//performances/2015/12/31/new-year.html</guid>
+        
+        
+        <category>performances</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Blah blah blah blah&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Feb 2015 23:33:36 +0000</pubDate>
+        <link>http://vespertinesingers.co.uk//news/2015/02/03/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://vespertinesingers.co.uk//news/2015/02/03/welcome-to-jekyll.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+  </channel>
+</rss>
